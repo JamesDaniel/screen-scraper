@@ -1,0 +1,24 @@
+{
+  "name": "screen-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDaniel/screen-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDaniel/screen-scraper/issues"
+  },
+  "homepage": "https://github.com/JamesDaniel/screen-scraper#readme"
+}
